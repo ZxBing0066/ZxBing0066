@@ -1,6 +1,14 @@
-### Hi there 👋
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=ZxBing0066&count_private=true&show_icons=true&theme=radical" alt="ZxBing0066's GitHub stats" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZxBing0066&show_icons=true&theme=radical" />
+  </a>
+</div>
 
-<!--
+
+<!-- ### Hi there 👋
+
+
 **ZxBing0066/ZxBing0066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
