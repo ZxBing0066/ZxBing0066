@@ -5,8 +5,6 @@
 
 ### A professional button presser.    
 
-🔭 I’m currently working on [Fun AI](https://funai.fun/).
-
 👨‍💻 All of my projects are available at [here](https://heyfe.org).
 
 📝 I regularly write articles [here](https://blog.heyfe.org).
